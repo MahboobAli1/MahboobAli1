@@ -1,78 +1,103 @@
-## Hi, I'm Mahboob Ali 👋
+<div align="center">
 
-I am an AI student with a strong foundation in programming, web development, and AI concepts. I enjoy building projects that solve practical problems and continuously improving my skills in AI, programming, and web technologies.
+Hi, I'm Mahboob Ali 👋
 
----
+<h3>AI Student | Full-Stack Developer | Problem Solver</h3>
 
-### Programming Languages & Skills
+<p>
+I am an AI student with a strong foundation in programming, web development, and AI concepts. 
 
-<table>
-<tr>
-<td align="center">C++</td>
-<td align="center">Java</td>
-<td align="center">Python</td>
-<td align="center">HTML</td>
-<td align="center">CSS</td>
-<td align="center">JavaScript</td>
-</tr>
-<tr>
-<td align="center">OOP, DSA</td>
-<td align="center">OOP, File Handling</td>
-<td align="center">ML Basics, Data Analysis</td>
-<td align="center">Web Fundamentals</td>
-<td align="center">Styling Web Pages</td>
-<td align="center">DOM Manipulation</td>
-</tr>
-</table>
 
----
 
-### AI & Machine Learning Libraries
 
-- NumPy, Pandas, Matplotlib  
-- Scikit-learn, TensorFlow  
+I enjoy building projects that solve practical problems and continuously improving my skills in AI, programming, and web technologies.
+</p>
 
----
+<p>
+<a href="mailto:Mahboobalikaghari1976@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Me-d14836%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
+</a>
+<a href="#">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0077B5%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
+</p>
+</div>
 
-### Tools
+🛠️ Tech Stack & Skills
 
-Dev C++, VS Code, NetBeans, MS Office  
+Languages
 
----
+Web Development
 
-### Featured Projects
+AI & Data Science
 
-| Project | Language / Tech | Semester | Description |
-|---------|----------------|---------|-------------|
-| Snake Game | C++ | 1st | Console-based snake game using OOP concepts |
-| Notepad Clone | Java | 2nd | Simple Notepad application replicating basic text editor |
-| Car Price Prediction System | Python / AI | 3rd | Predicts car prices using machine learning techniques |
-| Blood Donation System | Java / DS | 3rd | Manages blood donations using data structures |
+Tools & IDEs
 
----
+🚀 Featured Projects
 
-### Currently Learning
+Semester
 
-- Programming for AI  
-- Machine Learning  
-- Neural Networks  
+Project
 
----
+Tech Stack
 
-### Contact
+Description
 
-- LinkedIn: (to be added)  
-- Email: Mahboobalikaghari1976@gmail.com  
+3rd
 
----
+Car Price Prediction
 
-### Skills
+Python / ML
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+AI model that predicts car prices based on features using machine learning techniques.
+
+3rd
+
+Blood Donation System
+
+Java / DS
+
+Desktop application managing blood donations efficiently using data structures.
+
+2nd
+
+Notepad Clone
+
+Java / Swing
+
+A fully functional text editor supporting file creation, editing, and saving.
+
+1st
+
+Snake Game
+
+C++
+
+Classic console-based game demonstrating procedural programming logic.
+
+1st
+
+Hospital Website
+
+HTML / CSS
+
+Responsive hospital landing page with doctors, services, and team sections.
+
+1st
+
+Service Landing Page
+
+HTML / CSS
+
+Modern marketing webpage with a transparent login form and navigation bar.
+
+📚 Currently Learning
+
+🧠 Deep Learning & Neural Networks
+
+🤖 Programming for AI Agents
+
+📊 Advanced Data Analysis
+
+<div align="center">
+<p><i>Let's connect and build something amazing together
