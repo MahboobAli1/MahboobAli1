@@ -65,7 +65,7 @@ Dev C++, VS Code, NetBeans, MS Office
 ### Contact
 
 - LinkedIn:www.linkedin.com/in/mahboob-ali-ai-expert
-- Email: Mahboobalikaghari1976@gmail.com  
+- Email: mahboobalilaghari1976@gmail.com  
 
 ---
 
