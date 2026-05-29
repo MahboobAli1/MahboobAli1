@@ -114,27 +114,22 @@
 
 </div>
 
----
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MahboobAli1&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
 
 ---
 
 
 ```diff
+
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
 @@       | |                                           @@
 @@      _L_L_                                          @@
 @@   ❮\/__-__\/❯  A habit missed once is a mistake,    @@
-@@   ❮(|~o.o~|)❯    A habit missed twice is a start    @@
-@@   ❮/ \`-'/ \❯          of new habit!                @@
+@@   ❮(|~o.o~|)❯  A habit missed twice is the start     @@
+@@   ❮/ `-'/ \❯       of a new habit!                  @@
 @@     _/`U'\_                                         @@
 @@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   / /     \ \    | while (!(success = try())) |     @@
 @@   \ |  ,  | /    '----------------------------'     @@
 @@    \|=====|/                                        @@
 @@     |_.^._|                                         @@
