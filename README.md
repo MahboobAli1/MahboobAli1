@@ -7,7 +7,7 @@
 
 ## 📊 My GitHub Stats
 
-![Metrics](https://github.com/MahboobAli1/MahboobAli1/blob/output/metrics.svg)
+github-metrics.svg
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
