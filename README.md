@@ -7,8 +7,11 @@
 
 ## 📊 My GitHub Stats
 
-  <a href="https://raw.githubusercontent.com/MahboobAli1/MahboobAli1/main/github-metrics.svg">
-
+<p align="center">
+  <a href="https://github.com/MahboobAli1/MahboobAli1">
+    <img src="https://raw.githubusercontent.com/MahboobAli1/MahboobAli1/main/github-metrics.svg" alt="GitHub Metrics" />
+  </a>
+</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
