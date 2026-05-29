@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=mahboobali1&label=Profile%20views&color=0e75b6&style=flat" alt="mahboobali1" />
 </p>
 
+## 📊 My GitHub Stats
+
+![Metrics](https://github.com/MahboobAli1/MahboobAli1/blob/output/metrics.svg)
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mahboobali1&theme=algolia&margin-w=10&margin-h=10" alt="mahboobali1" />
