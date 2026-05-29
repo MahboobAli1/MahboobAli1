@@ -66,6 +66,9 @@
 <a href="mailto:mahboobalilaghari1976@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://youtube.com/@aiwithmahboobali?si=VdrFAKTHVp4q6CoK" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-AI%20With%20Mahboob%20Ali-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
 </div>
 
