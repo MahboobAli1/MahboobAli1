@@ -112,9 +112,6 @@
 </div>
 
 ---
-
-# 🏆 GitHub Trophies
-
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=MahboobAli1&theme=tokyonight&no-frame=true&row=1&column=7"/>
@@ -150,61 +147,47 @@
 
 
 
-# 📜 Certificates (Edit Later)
-
 <h2 align="center">📜 Certificates</h2>
 
 <div align="center">
 
-<!-- ====== 1 ====== -->
-<a href="YOUR_GOOGLE_AI_CERT_LINK">
-  <img src="https://img.shields.io/badge/Google_AI_Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</a>
+<!-- Google AI -->
+<img src="assets/google-ai.jpg" width="240" />
 
-<br><br>
-⬇️
+<!-- DSTP -->
+<img src="assets/dstp.jpg" width="240" />
 
-<!-- ====== 2 ====== -->
-<a href="YOUR_ML_SPECIALIZATION_LINK">
-  <img src="https://img.shields.io/badge/Machine_Learning_Specialization-FF6F00?style=for-the-badge&logo=coursera&logoColor=white"/>
-</a>
+<!-- IBA Test -->
+<img src="assets/iba-test.jpg" width="240" />
 
-<br><br>
-⬇️
+<!-- Mahboob Ali Certificate -->
+<img src="assets/MahboobAli.jpg" width="240" />
 
-<!-- ====== 3 ====== -->
-<a href="YOUR_PYTHON_CERT_LINK">
-  <img src="https://img.shields.io/badge/Python_Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-
-<br><br>
-⬇️
-
-<!-- ====== 4 ====== -->
-<a href="YOUR_INTERNSHIP_CERT_LINK">
-  <img src="https://img.shields.io/badge/AI_Internship_Certificate-00C7B7?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-</a>
+<!-- Google AI (Personal) -->
+<img src="assets/google-ai-mahboob.jpg" width="240" />
 
 </div>
+<h2 align="center">🚀 Featured Projects</h2>
 
----
+<div align="center">
+<table border="1" cellpadding="8" cellspacing="0">
 
-# 🚀 Featured Projects
+  <tr>
+    <td><b>Crop Recommendation System</b></td>
+    <td>Python / AI</td>
+    <td>4th Semester</td>
+    <td>Recommends suitable crops based on soil and environmental data</td>
+  </tr>
 
-- 🤖 AI Content Generator  
-- 📊 ML Prediction System  
-- 🧠 NLP Classifier  
-- 🎨 AI Image Generator  
+  <tr>
+    <td><b>ML Pipeline with Scikit-learn</b></td>
+    <td>Python / ML</td>
+    <td>4th Semester</td>
+    <td>End-to-end pipeline with preprocessing, model training (Logistic Regression, Random Forest), GridSearchCV tuning, and deployment using joblib</td>
+  </tr>
 
----
-
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=MahboobAli1&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
+</table>
+</div>
 ---
 
 # ⚡ Quote
