@@ -16,13 +16,35 @@
   <a href="https://github.com/MahboobAli1/MahboobAli1">
     <img src="https://raw.githubusercontent.com/MahboobAli1/MahboobAli1/main/github-metrics.svg" alt="GitHub Metrics" />
   </a>
-</p><p align="center" style="background:#0d1117; padding:20px; border-radius:20px;">
+<h2 align="center">📊 Mahboob's </h2>
+ </p><p align="center" style="background:#0d1117; padding:20px; border-radius:20px;">
   <img 
     src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=MahboobAli1&theme=tokyonight&hide_border=true&layout=compact"
     style="border-radius:15px;"
   />
 </p>
 
+
+
+''''
+<h2 align="center">📊 Language Statistics</h2>
+
+<table align="center">
+
+
+</td>
+
+<td align="center">
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahboobAli1&theme=omni"
+  height="180"
+/>
+
+</td>
+</tr>
+</table>
+'''
 <h2 align="center">💫 About Me</h2>
 
 <table>
