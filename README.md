@@ -192,9 +192,7 @@
 
 # ⚡ Quote
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+“It always seems impossible until it’s done.” — Nelson Mandela
 
 ---
 
