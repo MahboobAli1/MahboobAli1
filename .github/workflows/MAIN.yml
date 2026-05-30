@@ -1,1 +1,45 @@
+name: Generate Snake
 
+on:
+  # Run automatically every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+  
+  # Allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # Run on every push on the main branch
+  push:
+    branches:
+    - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      # Checks out your repository
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Generates a snake game from a github user ($GITHUB_USER_NAME) contributions graph, output a svg animation at <outputs>
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: MahboobAli1
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Push the content of <publish_dir> to a branch
+      # The content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
