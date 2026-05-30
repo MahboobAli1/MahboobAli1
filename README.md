@@ -1,4 +1,7 @@
 
+
+
+
 <h1 align="center">
   Hi 👋, I'm Mahboob Ali
 </h1>
@@ -10,41 +13,15 @@
 </div>
 
 
-# 🐍 GitHub Metrics 
+
 
 <p align="center">
   <a href="https://github.com/MahboobAli1/MahboobAli1">
     <img src="https://raw.githubusercontent.com/MahboobAli1/MahboobAli1/main/github-metrics.svg" alt="GitHub Metrics" />
   </a>
-<h2 align="center">📊 Mahboob's </h2>
- </p><p align="center" style="background:#0d1117; padding:20px; border-radius:20px;">
-  <img 
-    src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=MahboobAli1&theme=tokyonight&hide_border=true&layout=compact"
-    style="border-radius:15px;"
-  />
-</p>
+  
 
-
-
-''''
-<h2 align="center">📊 Language Statistics</h2>
-
-<table align="center">
-
-
-</td>
-
-<td align="center">
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahboobAli1&theme=omni"
-  height="180"
-/>
-
-</td>
-</tr>
-</table>
-'''
+![Snake animation](https://raw.githubusercontent.com/MahboobAli1/MahboobAli1/output/github-contribution-grid-snake.svg)
 <h2 align="center">💫 About Me</h2>
 
 <table>
@@ -99,7 +76,37 @@
 </div>
 
 
+<h2 align="center">📊 Mahboob's GitHub Stats</h2>
 
+<p align="center" style="background:#0d1117; padding:20px; border-radius:20px;">
+  <img 
+    src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=MahboobAli1&theme=tokyonight&hide_border=true&layout=compact"
+    style="border-radius:15px;"
+  />
+</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahboobAli1&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahboobAli1&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahboobAli1&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MahboobAli1&theme=tokyonight&utcOffset=+5" />
+    </td>
+  </tr>
+</table>
 
 
 
@@ -134,12 +141,7 @@
 
 # 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahboobAli1&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahboobAli1" />
 
 ---
 
