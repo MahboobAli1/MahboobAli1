@@ -1,5 +1,4 @@
-
-
+<img src="assets/mygif2.gif" width="100%" />
 
 
 <h1 align="center">
@@ -108,27 +107,85 @@
   </tr>
 </table>
 
-
-
 # 💻 Tech Stack
 
 ## Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
+  <img src="assets/python.png" width="60"/>
+  <img src="assets/c.png" width="60"/>
+  <img src="assets/c++.png" width="60"/>
+  <img src="assets/java.png" width="60"/>
+  <img src="assets/javascript.png" width="60"/>
+  <img src="assets/html.png" width="60"/>
+  <img src="assets/css.png" width="60"/>
+  <img src="assets/dart.png" width="60"/>
 </p>
+
+---
 
 ## AI / ML
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+  <img src="assets/tensorflow.png" width="60"/>
+  <img src="assets/pytorch.png" width="60"/>
+  <img src="assets/keras.png" width="60"/>
+  <img src="assets/numpy.png" width="60"/>
+  <img src="assets/pandas.png" width="60"/>
+  <img src="assets/matplotlib.png" width="60"/>
+  <img src="assets/scikit-learn.png" width="60"/>
 </p>
 
-## Tools
+---
+
+## Tools / IDEs
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,streamlit" />
+  <img src="assets/git.png" width="60"/>
+  <img src="assets/github.png" width="60"/>
+  <img src="assets/vsCode.png" width="60"/>
+  <img src="assets/jupyter.png" width="60"/>
+  <img src="assets/colab.png" width="60"/>
 </p>
 
+---
 
+## Databases
+<p align="center">
+  <img src="assets/mysql.png" width="60"/>
+  <img src="assets/databases.png" width="60"/>
+</p>
 
+---
+
+## Frameworks / Platforms
+<p align="center">
+  <img src="assets/react.png" width="60"/>
+  <img src="assets/flutter.png" width="60"/>
+  <img src="assets/springboot.png" width="60"/>
+ 
+</p>
+
+---
+
+## Operating System
+<p align="center">
+  <img src="assets/linux.png" width="60"/>
+</p>
+
+---
+
+## Office Tools
+<p align="center">
+  <img src="assets/excel.png" width="60"/>
+  <img src="assets/word.png" width="60"/>
+  <img src="assets/powerpoint.png" width="60"/>
+</p>
+
+---
+
+## Version Control & Cloud
+<p align="center">
+  <img src="assets/git.png" width="60"/>
+  <img src="assets/github.png" width="60"/>
+</p>
 # 🔥 GitHub Streak
 
 <div align="center">
