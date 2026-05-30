@@ -1,4 +1,8 @@
-<img src="assets/mygif2.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/MahboobAli1/MahboobAli1/main/assets/mygif.gif" />
+<img src="https://raw.githubusercontent.com/MahboobAli1/MahboobAli1/main/assets/mygif2.gif" />
+
+
+<img src="https://raw.githubusercontent.com/MahboobAli1/MahboobAli1/main/assets/line.gif" />
 
 
 <h1 align="center">
