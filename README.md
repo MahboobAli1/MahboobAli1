@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MahboobAli1/MahboobAli1/main/assets/mygif2.gif" />
 
 
-<img src="https://raw.githubusercontent.com/MahboobAli1/MahboobAli1/main/assets/line.gif" />
+<img src="https://raw.githubusercontent.com/MahboobAli1/MahboobAli1/main/assets/mygif.gif" width="300" />
 
 
 <h1 align="center">
